@@ -1,14 +1,20 @@
 import { Component, OnInit } from '@angular/core';
-import quizz_questions from "../../../assets/data/quizz_questions.json"
+import quizData from "../../../assets/data/quizzes.json"
+import { ActivatedRoute, RouterModule } from '@angular/router';
+import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-quizz',
+  standalone: true,
+  imports: [RouterModule, CommonModule],
   templateUrl: './quizz.component.html',
   styleUrls: ['./quizz.component.css']
 })
 
 export class QuizzComponent implements OnInit {
 
+  quizId: number = 0;
+  currentQuiz: any;
   title:string = ""
 
   questions:any
@@ -22,57 +28,58 @@ export class QuizzComponent implements OnInit {
 
   finished:boolean = false
 
-  constructor() { }
+  constructor(private route: ActivatedRoute) { }
 
   ngOnInit(): void {
-    if(quizz_questions){
-      this.finished = false
-      this.title = quizz_questions.title
-
-      this.questions = quizz_questions.questions
-      this.questionSelected = this.questions[this.questionIndex]
-
-      this.questionIndex = 0
-      this.questionMaxIndex = this.questions.length
-
-      console.log(this.questionIndex)
-      console.log(this.questionMaxIndex)
-    }
-
+    this.route.params.subscribe(params => {
+      this.quizId = +params['id'];
+      this.loadQuiz();
+    });
   }
 
-  playerChoose(value:string){
-    this.answers.push(value)
-    this.nextStep()
+  loadQuiz() {
 
-  }
+    this.currentQuiz = quizData.quizzes.find((quiz: any) => quiz.id === this.quizId);
 
-  async nextStep(){
-    this.questionIndex+=1
-
-    if(this.questionMaxIndex > this.questionIndex){
-        this.questionSelected = this.questions[this.questionIndex]
-    }else{
-      const finalAnswer:string = await this.checkResult(this.answers)
-      this.finished = true
-      this.answerSelected = quizz_questions.results[finalAnswer as keyof typeof quizz_questions.results ]
+    if (this.currentQuiz) {
+      this.finished = false;
+      this.title = this.currentQuiz.title;
+      this.questions = this.currentQuiz.questions;
+      this.questionSelected = this.questions[this.questionIndex];
+      this.questionMaxIndex = this.questions.length;
+    } else {
+      console.error('Quiz não encontrado para o ID:', this.quizId);
     }
   }
 
-  async checkResult(anwsers:string[]){
-
-    const result = anwsers.reduce((previous, current, i, arr)=>{
-        if(
-          arr.filter(item => item === previous).length >
-          arr.filter(item => item === current).length
-        ){
-          return previous
-        }else{
-          return current
-        }
-    })
-
-    return result
+  playerChoose(value: string) {
+    this.answers.push(value);
+    this.nextStep();
   }
 
+  async nextStep() {
+    this.questionIndex += 1;
+
+    if (this.questionMaxIndex > this.questionIndex) {
+      this.questionSelected = this.questions[this.questionIndex];
+    } else {
+      const finalAnswer: string = await this.checkResult(this.answers);
+      this.finished = true;
+      this.answerSelected = this.currentQuiz.results[finalAnswer as keyof typeof this.currentQuiz.results];
+    }
+  }
+
+  async checkResult(answers: string[]) {
+    const result = answers.reduce((previous, current, i, arr) => {
+      if (
+        arr.filter(item => item === previous).length >
+        arr.filter(item => item === current).length
+      ) {
+        return previous;
+      } else {
+        return current;
+      }
+    });
+    return result;
+  }
 }

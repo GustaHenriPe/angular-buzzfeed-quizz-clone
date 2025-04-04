@@ -1,0 +1,1136 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "title": "Qual personagem de One Piece você seria?",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Qual é a sua maior ambição?",
+          "options": [
+            {
+              "id": 1,
+              "name": "Ser o mais forte e nunca perder uma luta",
+              "alias": "A"
+            },
+            {
+              "id": 2,
+              "name": "Explorar o mundo e viver aventuras inesquecíveis",
+              "alias": "B"
+            },
+            { "id": 3, "name": "Acumular riquezas e poder", "alias": "C" },
+            { "id": 4, "name": "Proteger as pessoas que amo", "alias": "D" }
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Se você fosse um pirata, qual seria seu estilo de luta?",
+          "options": [
+            {
+              "id": 1,
+              "name": "Luta corpo a corpo, usando socos e chutes poderosos",
+              "alias": "A"
+            },
+            {
+              "id": 2,
+              "name": "Uso de espadas ou outras armas afiadas",
+              "alias": "D"
+            },
+            {
+              "id": 3,
+              "name": "Táticas inteligentes e estratégias para enganar o inimigo",
+              "alias": "C"
+            },
+            {
+              "id": 4,
+              "name": "Uso de habilidades especiais ou poderes místicos",
+              "alias": "B"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "question": "O que mais te irrita?",
+          "options": [
+            {
+              "id": 1,
+              "name": "Injustiça e opressão contra os mais fracos",
+              "alias": "D"
+            },
+            { "id": 2, "name": "Ser subestimado por alguém", "alias": "A" },
+            {
+              "id": 3,
+              "name": "Que alguém tente me enganar ou trapacear",
+              "alias": "C"
+            },
+            { "id": 4, "name": "Que alguém mexa com meus amigos", "alias": "B" }
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Se você estivesse perdido em alto-mar, o que faria?",
+          "options": [
+            {
+              "id": 1,
+              "name": "Confiaria nos meus instintos e seguiria o vento",
+              "alias": "B"
+            },
+            {
+              "id": 2,
+              "name": "Usaria meu conhecimento de navegação para traçar uma rota segura",
+              "alias": "C"
+            },
+            {
+              "id": 3,
+              "name": "Manteria a calma e esperaria resgate",
+              "alias": "D"
+            },
+            {
+              "id": 4,
+              "name": "Iria na direção que parece mais perigosa, pois lá podem estar as respostas",
+              "alias": "A"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Qual dessas qualidades melhor descreve você?",
+          "options": [
+            { "id": 1, "name": "Coragem e determinação", "alias": "A" },
+            { "id": 2, "name": "Lealdade e companheirismo", "alias": "D" },
+            { "id": 3, "name": "Inteligência e estratégia", "alias": "C" },
+            { "id": 4, "name": "Alegria e espontaneidade", "alias": "B" }
+          ]
+        },
+        {
+          "id": 6,
+          "question": "Se pudesse escolher uma Akuma no Mi, qual tipo escolheria?",
+          "options": [
+            {
+              "id": 1,
+              "name": "Paramecia - Poderes únicos e criativos",
+              "alias": "B"
+            },
+            {
+              "id": 2,
+              "name": "Zoan - Transformações poderosas em animais",
+              "alias": "D"
+            },
+            {
+              "id": 3,
+              "name": "Logia - Controle de elementos naturais",
+              "alias": "C"
+            },
+            {
+              "id": 4,
+              "name": "Nenhuma, prefiro depender da minha própria força",
+              "alias": "A"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Qual seria o seu papel em uma tripulação pirata?",
+          "options": [
+            {
+              "id": 1,
+              "name": "O Capitão - Liderar e inspirar a todos",
+              "alias": "B"
+            },
+            {
+              "id": 2,
+              "name": "O Espadachim - Defender a tripulação com minha força",
+              "alias": "D"
+            },
+            {
+              "id": 3,
+              "name": "O Navegador - Garantir que cheguemos ao nosso destino",
+              "alias": "C"
+            },
+            {
+              "id": 4,
+              "name": "O Lutador - Proteger meus amigos e enfrentar qualquer ameaça",
+              "alias": "A"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "question": "Se você tivesse um tesouro, como o usaria?",
+          "options": [
+            {
+              "id": 1,
+              "name": "Compraria armas e equipamentos para me fortalecer",
+              "alias": "A"
+            },
+            {
+              "id": 2,
+              "name": "Viajaria pelo mundo e ajudaria as pessoas",
+              "alias": "B"
+            },
+            {
+              "id": 3,
+              "name": "Investiria para acumular mais riqueza e influência",
+              "alias": "C"
+            },
+            {
+              "id": 4,
+              "name": "Manteria guardado para momentos de necessidade",
+              "alias": "D"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "question": "Como você lida com desafios?",
+          "options": [
+            { "id": 1, "name": "Enfrento de frente, sem medo", "alias": "A" },
+            {
+              "id": 2,
+              "name": "Penso em uma estratégia antes de agir",
+              "alias": "C"
+            },
+            {
+              "id": 3,
+              "name": "Confio nos meus amigos para superá-los juntos",
+              "alias": "D"
+            },
+            {
+              "id": 4,
+              "name": "Dou risada do perigo e sigo em frente",
+              "alias": "B"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "question": "O que a liberdade significa para você?",
+          "options": [
+            {
+              "id": 1,
+              "name": "Poder fazer o que quiser, sem restrições",
+              "alias": "B"
+            },
+            {
+              "id": 2,
+              "name": "Poder proteger os que amo sem que nada me impeça",
+              "alias": "D"
+            },
+            {
+              "id": 3,
+              "name": "Poder traçar meu próprio destino",
+              "alias": "A"
+            },
+            {
+              "id": 4,
+              "name": "Poder buscar conhecimento e poder sem limitações",
+              "alias": "C"
+            }
+          ]
+        }
+      ],
+      "results": {
+        "A": "Você seria Roronoa Zoro! Com uma determinação inabalável e força imensa, você nunca recua de um desafio e protege aqueles que considera amigos. Seu senso de honra e lealdade fazem de você um verdadeiro guerreiro.",
+        "B": "Você seria Monkey D. Luffy! Com um espírito livre e uma vontade inquebrantável, você segue seus sonhos sem medo. Você tem um coração enorme e sempre coloca seus amigos acima de tudo, vivendo cada aventura com alegria.",
+        "C": "Você seria Nami! Inteligente e astuta, você sabe como virar a situação a seu favor e sempre pensa à frente. Sua ambição e habilidade para planejar fazem de você alguém essencial para qualquer grupo.",
+        "D": "Você seria Sanji! Carismático e protetor, você se preocupa profundamente com aqueles ao seu redor e sempre luta por justiça. Sua força e dedicação fazem de você um aliado indispensável em qualquer jornada."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Qual personagem de Bleach você seria?",
+      "questions": [
+        {
+          "id": 1,
+          "question": "O que é mais importante para você em uma batalha?",
+          "options": [
+            {"id": 1, "name": "Força bruta e determinação", "alias": "A"},
+            {"id": 2, "name": "Estratégia e inteligência", "alias": "C"},
+            {"id": 3, "name": "Velocidade e precisão", "alias": "B"},
+            {"id": 4, "name": "Proteção dos mais fracos", "alias": "D"}
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Se você tivesse uma Zanpakutō, qual seria sua principal habilidade?",
+          "options": [
+            {"id": 1, "name": "Ataques poderosos que destroem tudo", "alias": "A"},
+            {"id": 2, "name": "Manipulação de energia espiritual", "alias": "C"},
+            {"id": 3, "name": "Velocidade e golpes precisos", "alias": "B"},
+            {"id": 4, "name": "Técnicas defensivas e suporte", "alias": "D"}
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Qual destas frases combina mais com você?",
+          "options": [
+            {"id": 1, "name": "Nunca recuo, não importa o inimigo!", "alias": "A"},
+            {"id": 2, "name": "O conhecimento é a chave para a vitória.", "alias": "C"},
+            {"id": 3, "name": "A velocidade é minha melhor arma.", "alias": "B"},
+            {"id": 4, "name": "Proteger aqueles que amo é minha maior missão.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Se você enfrentasse um inimigo muito mais forte, o que faria?",
+          "options": [
+            {"id": 1, "name": "Atacaria de frente, sem medo!", "alias": "A"},
+            {"id": 2, "name": "Analisaria seus padrões e acharia um ponto fraco.", "alias": "C"},
+            {"id": 3, "name": "Usaria minha velocidade para desgastar o inimigo.", "alias": "B"},
+            {"id": 4, "name": "Tentaria proteger os aliados enquanto pensava em uma saída.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Qual seria seu papel na Soul Society?",
+          "options": [
+            {"id": 1, "name": "Capitão, liderando com força e coragem!", "alias": "A"},
+            {"id": 2, "name": "Um estrategista que comanda dos bastidores.", "alias": "C"},
+            {"id": 3, "name": "Um lutador veloz e imprevisível.", "alias": "B"},
+            {"id": 4, "name": "Um protetor que defende os inocentes.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 6,
+          "question": "Se você tivesse que escolher um rival, quem seria?",
+          "options": [
+            {"id": 1, "name": "Um inimigo tão forte quanto eu!", "alias": "A"},
+            {"id": 2, "name": "Alguém mais inteligente que eu, para me desafiar.", "alias": "C"},
+            {"id": 3, "name": "Alguém rápido o suficiente para me acompanhar.", "alias": "B"},
+            {"id": 4, "name": "Um inimigo que ameaça quem eu amo.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Qual é o seu maior medo?",
+          "options": [
+            {"id": 1, "name": "Ser fraco e não conseguir proteger quem amo.", "alias": "A"},
+            {"id": 2, "name": "Ser enganado e manipulado.", "alias": "C"},
+            {"id": 3, "name": "Perder minha liberdade e velocidade.", "alias": "B"},
+            {"id": 4, "name": "Ver meus amigos sofrendo por minha causa.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 8,
+          "question": "O que mais te motiva a lutar?",
+          "options": [
+            {"id": 1, "name": "O desafio e a emoção da batalha!", "alias": "A"},
+            {"id": 2, "name": "A busca pelo conhecimento e verdade.", "alias": "C"},
+            {"id": 3, "name": "A adrenalina e o movimento!", "alias": "B"},
+            {"id": 4, "name": "A proteção daqueles que amo.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 9,
+          "question": "Qual sua estratégia preferida?",
+          "options": [
+            {"id": 1, "name": "Força total e ataques brutais!", "alias": "A"},
+            {"id": 2, "name": "Enganar o inimigo e virar o jogo.", "alias": "C"},
+            {"id": 3, "name": "Movimentos rápidos e evasivos.", "alias": "B"},
+            {"id": 4, "name": "Uma defesa intransponível.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Se tivesse que descrever sua personalidade em uma palavra, qual seria?",
+          "options": [
+            {"id": 1, "name": "Determinado", "alias": "A"},
+            {"id": 2, "name": "Calculista", "alias": "C"},
+            {"id": 3, "name": "Impulsivo", "alias": "B"},
+            {"id": 4, "name": "Protetor", "alias": "D"}
+          ]
+        }
+      ],
+      "results": {
+        "A": "Você seria Ichigo Kurosaki! Com um espírito de luta inquebrantável, você não recua diante de nenhum desafio e sempre coloca seus amigos acima de tudo. Sua força e determinação fazem de você um guerreiro nato.",
+        "B": "Você seria Byakuya Kuchiki! Rápido e preciso, você valoriza a honra e a disciplina, confiando em suas habilidades e mantendo sempre a calma. Sua presença impõe respeito.",
+        "C": "Você seria Urahara Kisuke! Inteligente e misterioso, você sempre está alguns passos à frente dos seus inimigos. Seu conhecimento e estratégia fazem de você um adversário temível.",
+        "D": "Você seria Rukia Kuchiki! Corajoso e leal, você sempre coloca os outros antes de si mesmo, protegendo aqueles que ama. Sua determinação e senso de dever fazem de você um verdadeiro guardião."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Qual personagem de Dragon Ball você seria?",
+      "questions": [
+        {
+          "id": 1,
+          "question": "O que te motiva a lutar?",
+          "options": [
+            {"id": 1, "name": "Me tornar o mais forte!", "alias": "A"},
+            {"id": 2, "name": "Proteger aqueles que amo.", "alias": "B"},
+            {"id": 3, "name": "O prazer da batalha!", "alias": "C"},
+            {"id": 4, "name": "O desejo de vingança ou redenção.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Como você descreveria seu estilo de luta?",
+          "options": [
+            {"id": 1, "name": "Força bruta e resistência.", "alias": "A"},
+            {"id": 2, "name": "Rápido e preciso.", "alias": "B"},
+            {"id": 3, "name": "Explosivo e imprevisível.", "alias": "C"},
+            {"id": 4, "name": "Técnico e estratégico.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Qual dessas frases combina mais com você?",
+          "options": [
+            {"id": 1, "name": "Sempre há alguém mais forte para desafiar!", "alias": "A"},
+            {"id": 2, "name": "Proteger as pessoas é minha prioridade.", "alias": "B"},
+            {"id": 3, "name": "Eu só vivo para a luta!", "alias": "C"},
+            {"id": 4, "name": "Eu nunca perdoarei aqueles que me fizeram mal.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Se você pudesse ter uma técnica especial, qual seria?",
+          "options": [
+            {"id": 1, "name": "Um golpe devastador como o Kamehameha.", "alias": "A"},
+            {"id": 2, "name": "Teletransporte para surpreender o inimigo.", "alias": "B"},
+            {"id": 3, "name": "Uma forma que aumente meu poder exponencialmente.", "alias": "C"},
+            {"id": 4, "name": "Uma habilidade que me deixe imbatível na defesa.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Como você encara um adversário mais forte?",
+          "options": [
+            {"id": 1, "name": "Me esforço ao máximo para superá-lo!", "alias": "A"},
+            {"id": 2, "name": "Penso em um plano antes de atacar.", "alias": "B"},
+            {"id": 3, "name": "Isso só me deixa mais animado!", "alias": "C"},
+            {"id": 4, "name": "Espero pelo momento certo para revidar.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 6,
+          "question": "Qual seu maior medo?",
+          "options": [
+            {"id": 1, "name": "Nunca alcançar meu verdadeiro potencial.", "alias": "A"},
+            {"id": 2, "name": "Perder aqueles que amo.", "alias": "B"},
+            {"id": 3, "name": "Ficar entediado sem desafios.", "alias": "C"},
+            {"id": 4, "name": "Ser derrotado por alguém que subestimei.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Qual é sua abordagem ao treinar?",
+          "options": [
+            {"id": 1, "name": "Treino incansavelmente até a exaustão!", "alias": "A"},
+            {"id": 2, "name": "Treino com estratégia e controle.", "alias": "B"},
+            {"id": 3, "name": "Treino enquanto luto com oponentes fortes!", "alias": "C"},
+            {"id": 4, "name": "Treino só o necessário para alcançar meus objetivos.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 8,
+          "question": "Se você pudesse escolher um rival, quem seria?",
+          "options": [
+            {"id": 1, "name": "Alguém tão forte quanto eu!", "alias": "A"},
+            {"id": 2, "name": "Alguém mais rápido e esperto.", "alias": "B"},
+            {"id": 3, "name": "Alguém que me desafie constantemente.", "alias": "C"},
+            {"id": 4, "name": "Alguém que eu precise superar para ter minha vingança.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 9,
+          "question": "O que você faz após vencer uma luta?",
+          "options": [
+            {"id": 1, "name": "Já penso no próximo desafio!", "alias": "A"},
+            {"id": 2, "name": "Vejo se todos estão bem.", "alias": "B"},
+            {"id": 3, "name": "Ria e comemoro!", "alias": "C"},
+            {"id": 4, "name": "Deixo claro que a batalha ainda não acabou.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Se tivesse que descrever sua personalidade em uma palavra, qual seria?",
+          "options": [
+            {"id": 1, "name": "Determinado", "alias": "A"},
+            {"id": 2, "name": "Protetor", "alias": "B"},
+            {"id": 3, "name": "Impulsivo", "alias": "C"},
+            {"id": 4, "name": "Calculista", "alias": "D"}
+          ]
+        }
+      ],
+      "results": {
+        "A": "Você seria Goku! Sempre buscando novos desafios e superando seus limites, você tem um espírito inabalável e um coração puro. Seu desejo de lutar é incontrolável!",
+        "B": "Você seria Gohan! Inteligente e poderoso, você luta apenas quando necessário, mas quando seus entes queridos estão em perigo, libera um poder incrível.",
+        "C": "Você seria Vegeta! Orgulhoso e impetuoso, você nunca aceita ficar para trás e está sempre tentando superar seus próprios limites.",
+        "D": "Você seria Freeza! Frio e calculista, você pensa em cada passo antes de agir e sempre busca formas de alcançar a supremacia total."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Qual personagem de Naruto você seria?",
+      "questions": [
+        {
+          "id": 1,
+          "question": "O que é mais importante para você?",
+          "options": [
+            {"id": 1, "name": "Nunca desistir dos meus sonhos!", "alias": "A"},
+            {"id": 2, "name": "Proteger aqueles que amo.", "alias": "B"},
+            {"id": 3, "name": "Me tornar o mais forte!", "alias": "C"},
+            {"id": 4, "name": "Buscar vingança ou justiça.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Como você encara um desafio?",
+          "options": [
+            {"id": 1, "name": "Vou com tudo, sem medo!", "alias": "A"},
+            {"id": 2, "name": "Observo e crio uma estratégia.", "alias": "B"},
+            {"id": 3, "name": "Luto para provar minha força!", "alias": "C"},
+            {"id": 4, "name": "Só aceito se valer a pena.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Qual desses jutsus você gostaria de dominar?",
+          "options": [
+            {"id": 1, "name": "Rasengan!", "alias": "A"},
+            {"id": 2, "name": "Clone das Sombras.", "alias": "B"},
+            {"id": 3, "name": "Chidori!", "alias": "C"},
+            {"id": 4, "name": "Amaterasu.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Se você estivesse em uma batalha difícil, o que faria?",
+          "options": [
+            {"id": 1, "name": "Lutaria até o fim, sem desistir!", "alias": "A"},
+            {"id": 2, "name": "Criaria um plano para vencer.", "alias": "B"},
+            {"id": 3, "name": "Usaria toda a minha força para acabar rápido.", "alias": "C"},
+            {"id": 4, "name": "Se fosse impossível, recuaria para lutar outro dia.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Qual é sua maior qualidade?",
+          "options": [
+            {"id": 1, "name": "Determinação!", "alias": "A"},
+            {"id": 2, "name": "Lealdade!", "alias": "B"},
+            {"id": 3, "name": "Poder!", "alias": "C"},
+            {"id": 4, "name": "Inteligência!", "alias": "D"}
+          ]
+        },
+        {
+          "id": 6,
+          "question": "O que te deixa mais irritado?",
+          "options": [
+            {"id": 1, "name": "Quando duvidam de mim!", "alias": "A"},
+            {"id": 2, "name": "Ver meus amigos sofrendo.", "alias": "B"},
+            {"id": 3, "name": "Perder para alguém mais fraco.", "alias": "C"},
+            {"id": 4, "name": "Quando não sou levado a sério.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Se pudesse escolher um sensei, quem seria?",
+          "options": [
+            {"id": 1, "name": "Jiraiya!", "alias": "A"},
+            {"id": 2, "name": "Kakashi!", "alias": "B"},
+            {"id": 3, "name": "Orochimaru.", "alias": "C"},
+            {"id": 4, "name": "Itachi!", "alias": "D"}
+          ]
+        },
+        {
+          "id": 8,
+          "question": "O que significa amizade para você?",
+          "options": [
+            {"id": 1, "name": "Amigos são minha motivação!", "alias": "A"},
+            {"id": 2, "name": "São minha família!", "alias": "B"},
+            {"id": 3, "name": "Apenas aqueles que são dignos.", "alias": "C"},
+            {"id": 4, "name": "Não confio em ninguém completamente.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 9,
+          "question": "Qual desses vilões você respeita mais?",
+          "options": [
+            {"id": 1, "name": "Pain.", "alias": "A"},
+            {"id": 2, "name": "Madara.", "alias": "B"},
+            {"id": 3, "name": "Orochimaru.", "alias": "C"},
+            {"id": 4, "name": "Itachi (antes da verdade ser revelada).", "alias": "D"}
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Se você pudesse ter uma Kekkei Genkai, qual seria?",
+          "options": [
+            {"id": 1, "name": "Modo Sábio.", "alias": "A"},
+            {"id": 2, "name": "Byakugan.", "alias": "B"},
+            {"id": 3, "name": "Sharingan.", "alias": "C"},
+            {"id": 4, "name": "Mangekyō Sharingan.", "alias": "D"}
+          ]
+        }
+      ],
+      "results": {
+        "A": "Você seria Naruto! Determinado, teimoso e com um coração gigante, você nunca desiste e sempre luta para proteger aqueles que ama.",
+        "B": "Você seria Kakashi! Inteligente e leal, você valoriza seus amigos e nunca hesita em tomar decisões difíceis pelo bem maior.",
+        "C": "Você seria Sasuke! Frio e poderoso, você busca sempre evoluir, mas guarda um lado leal e protetor para aqueles que realmente importam.",
+        "D": "Você seria Itachi! Silencioso e estrategista, você faz sacrifícios pelo bem maior, mesmo que o mundo nunca entenda suas verdadeiras intenções."
+      }
+    },
+    {
+      "id": 5,
+      "title": "Qual personagem de Attack on Titan você seria?",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Qual é o seu maior objetivo?",
+          "options": [
+            {"id": 1, "name": "Liberdade acima de tudo!", "alias": "A"},
+            {"id": 2, "name": "Proteger as pessoas que amo.", "alias": "B"},
+            {"id": 3, "name": "Descobrir a verdade oculta.", "alias": "C"},
+            {"id": 4, "name": "Fazer justiça com minhas próprias mãos.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Como você lida com desafios?",
+          "options": [
+            {"id": 1, "name": "Ataco com tudo, sem medo!", "alias": "A"},
+            {"id": 2, "name": "Faço o que for preciso para vencer.", "alias": "B"},
+            {"id": 3, "name": "Uso estratégia e inteligência.", "alias": "C"},
+            {"id": 4, "name": "Me sacrifico se necessário.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Qual sua maior força?",
+          "options": [
+            {"id": 1, "name": "Minha vontade inabalável.", "alias": "A"},
+            {"id": 2, "name": "Minha lealdade e proteção aos amigos.", "alias": "B"},
+            {"id": 3, "name": "Minha inteligência e estratégia.", "alias": "C"},
+            {"id": 4, "name": "Minha frieza e capacidade de tomar decisões difíceis.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Se você fosse um soldado, qual seria sua unidade?",
+          "options": [
+            {"id": 1, "name": "Tropa de Exploração!", "alias": "A"},
+            {"id": 2, "name": "Tropa de Guarnição.", "alias": "B"},
+            {"id": 3, "name": "Polícia Militar.", "alias": "C"},
+            {"id": 4, "name": "Eu lideraria minha própria causa.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 5,
+          "question": "O que mais te motiva?",
+          "options": [
+            {"id": 1, "name": "Vingança contra aqueles que me prejudicaram.", "alias": "A"},
+            {"id": 2, "name": "A segurança daqueles que amo.", "alias": "B"},
+            {"id": 3, "name": "Conhecimento e verdade.", "alias": "C"},
+            {"id": 4, "name": "Mudar o mundo a qualquer custo.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 6,
+          "question": "Se um amigo estivesse em perigo, o que você faria?",
+          "options": [
+            {"id": 1, "name": "Me jogaria na luta sem hesitar!", "alias": "A"},
+            {"id": 2, "name": "Faria de tudo para protegê-lo, mesmo que custe minha vida.", "alias": "B"},
+            {"id": 3, "name": "Criaria um plano para resgatá-lo com sucesso.", "alias": "C"},
+            {"id": 4, "name": "Avaliaria se ele pode ser salvo antes de agir.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 7,
+          "question": "O que você acha de sacrifícios?",
+          "options": [
+            {"id": 1, "name": "Se for necessário para a vitória, eu aceito.", "alias": "A"},
+            {"id": 2, "name": "Só se eu puder proteger alguém importante.", "alias": "B"},
+            {"id": 3, "name": "Depende da situação, mas evito se possível.", "alias": "C"},
+            {"id": 4, "name": "O mundo exige sacrifícios, e eu estou pronto.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 8,
+          "question": "Se você tivesse que liderar um exército, qual seria seu estilo de comando?",
+          "options": [
+            {"id": 1, "name": "Inspirador e movido pela emoção!", "alias": "A"},
+            {"id": 2, "name": "Protetor e leal aos meus soldados.", "alias": "B"},
+            {"id": 3, "name": "Calculista e estratégico.", "alias": "C"},
+            {"id": 4, "name": "Frio e disposto a tomar qualquer decisão.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 9,
+          "question": "O que você acha da humanidade?",
+          "options": [
+            {"id": 1, "name": "Precisa lutar pela liberdade!", "alias": "A"},
+            {"id": 2, "name": "Ainda há esperança.", "alias": "B"},
+            {"id": 3, "name": "É cheia de segredos e mentiras.", "alias": "C"},
+            {"id": 4, "name": "Está condenada e precisa ser reformulada.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Qual dessas frases ressoa mais com você?",
+          "options": [
+            {"id": 1, "name": "\"Se não lutarmos, não venceremos!\"", "alias": "A"},
+            {"id": 2, "name": "\"Eu te protegerei, não importa o quê.\"", "alias": "B"},
+            {"id": 3, "name": "\"O mundo é um mistério a ser desvendado.\"", "alias": "C"},
+            {"id": 4, "name": "\"O futuro é feito por aqueles dispostos a pagar o preço.\"", "alias": "D"}
+          ]
+        }
+      ],
+      "results": {
+        "A": "Você seria Eren Yeager! Impulsivo e determinado, você luta por liberdade e não mede esforços para atingir seus objetivos.",
+        "B": "Você seria Mikasa Ackerman! Leal e protetor, você daria sua vida por aqueles que ama, sem hesitação.",
+        "C": "Você seria Armin Arlert! Inteligente e estratégico, você busca respostas e acredita que a mente é a maior arma.",
+        "D": "Você seria Erwin Smith! Frio e calculista, você entende que grandes mudanças exigem sacrifícios e está disposto a liderar pelo bem maior."
+      }
+    },
+    {
+      "id": 6,
+      "title": "Qual personagem de Fullmetal Alchemist: Brotherhood você seria?",
+      "questions": [
+        {
+          "id": 1,
+          "question": "O que você mais valoriza?",
+          "options": [
+            {"id": 1, "name": "Conhecimento acima de tudo!", "alias": "A"},
+            {"id": 2, "name": "Família e laços de sangue.", "alias": "B"},
+            {"id": 3, "name": "Justiça e retidão.", "alias": "C"},
+            {"id": 4, "name": "Poder e ambição.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Como você enfrenta seus desafios?",
+          "options": [
+            {"id": 1, "name": "Com inteligência e estratégia.", "alias": "A"},
+            {"id": 2, "name": "Com força de vontade e determinação.", "alias": "B"},
+            {"id": 3, "name": "Com disciplina e planejamento.", "alias": "C"},
+            {"id": 4, "name": "Com qualquer meio necessário para vencer.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Qual seu maior medo?",
+          "options": [
+            {"id": 1, "name": "Perder minha mente e identidade.", "alias": "A"},
+            {"id": 2, "name": "Ficar sozinho no mundo.", "alias": "B"},
+            {"id": 3, "name": "Ser incapaz de proteger aqueles que amo.", "alias": "C"},
+            {"id": 4, "name": "Fracassar em alcançar meus objetivos.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Se você pudesse usar alquimia, qual seria sua especialidade?",
+          "options": [
+            {"id": 1, "name": "Alquimia teórica e simbólica.", "alias": "A"},
+            {"id": 2, "name": "Alquimia de combate.", "alias": "B"},
+            {"id": 3, "name": "Alquimia elemental.", "alias": "C"},
+            {"id": 4, "name": "Transmutação proibida.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 5,
+          "question": "O que você faria para alcançar seu objetivo?",
+          "options": [
+            {"id": 1, "name": "Usaria meu intelecto e ciência.", "alias": "A"},
+            {"id": 2, "name": "Jamais sacrificaria outras pessoas.", "alias": "B"},
+            {"id": 3, "name": "Confiaria em aliados e seguiria regras.", "alias": "C"},
+            {"id": 4, "name": "Faria qualquer sacrifício necessário.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 6,
+          "question": "Se alguém te traísse, o que você faria?",
+          "options": [
+            {"id": 1, "name": "Tentaria entender os motivos.", "alias": "A"},
+            {"id": 2, "name": "Nunca perdoaria, mas seguiria em frente.", "alias": "B"},
+            {"id": 3, "name": "Lutaria por justiça e vingança.", "alias": "C"},
+            {"id": 4, "name": "Usaria isso para crescer ainda mais forte.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Qual dessas frases ressoa mais com você?",
+          "options": [
+            {"id": 1, "name": "\"A verdade está além do que os olhos podem ver.\"", "alias": "A"},
+            {"id": 2, "name": "\"Um coração puro é mais forte que qualquer arma.\"", "alias": "B"},
+            {"id": 3, "name": "\"Proteger aqueles que amo é minha maior missão.\"", "alias": "C"},
+            {"id": 4, "name": "\"A fraqueza precisa ser eliminada para alcançar a perfeição.\"", "alias": "D"}
+          ]
+        },
+        {
+          "id": 8,
+          "question": "Se você tivesse que escolher entre poder e amor, o que escolheria?",
+          "options": [
+            {"id": 1, "name": "Poder para ajudar os outros.", "alias": "A"},
+            {"id": 2, "name": "Amor acima de qualquer coisa.", "alias": "B"},
+            {"id": 3, "name": "O equilíbrio entre os dois.", "alias": "C"},
+            {"id": 4, "name": "Poder absoluto, sem hesitação.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 9,
+          "question": "Qual seria sua motivação para se tornar alquimista?",
+          "options": [
+            {"id": 1, "name": "Aprender e explorar os segredos do mundo.", "alias": "A"},
+            {"id": 2, "name": "Trazer de volta algo ou alguém que perdi.", "alias": "B"},
+            {"id": 3, "name": "Usar minha força para proteger os inocentes.", "alias": "C"},
+            {"id": 4, "name": "Atingir o poder supremo.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Se pudesse conhecer 'A Verdade', você pagaria o preço?",
+          "options": [
+            {"id": 1, "name": "Sim, o conhecimento vale qualquer sacrifício.", "alias": "A"},
+            {"id": 2, "name": "Só se eu pudesse proteger quem amo.", "alias": "B"},
+            {"id": 3, "name": "Depende do preço que teria que pagar.", "alias": "C"},
+            {"id": 4, "name": "Não, algumas coisas devem permanecer ocultas.", "alias": "D"}
+          ]
+        }
+      ],
+      "results": {
+        "A": "Você seria Edward Elric! Inteligente, determinado e teimoso, você busca conhecimento acima de tudo, mas nunca esquece seus valores.",
+        "B": "Você seria Alphonse Elric! Bondoso e leal, você valoriza as conexões humanas e está sempre disposto a ajudar os outros.",
+        "C": "Você seria Roy Mustang! Estratégico e ambicioso, você luta pela justiça e pela mudança, sempre planejando o próximo passo.",
+        "D": "Você seria Father! Sedento por poder e controle, você acredita que o mundo pode ser moldado por suas próprias mãos."
+      }
+    },
+    {
+      "id": 8,
+      "title": "Qual personagem de Hunter x Hunter você seria?",
+      "questions": [
+        {
+          "id": 1,
+          "question": "O que mais te define?",
+          "options": [
+            {"id": 1, "name": "O desejo de explorar e aprender.", "alias": "A"},
+            {"id": 2, "name": "A busca por desafios e emoções.", "alias": "B"},
+            {"id": 3, "name": "A inteligência e estratégia.", "alias": "C"},
+            {"id": 4, "name": "A sede de poder e domínio.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Qual seu maior objetivo na vida?",
+          "options": [
+            {"id": 1, "name": "Descobrir o desconhecido e viver aventuras.", "alias": "A"},
+            {"id": 2, "name": "Ser o mais forte e testar meus limites.", "alias": "B"},
+            {"id": 3, "name": "Desenvolver minha mente e superar desafios.", "alias": "C"},
+            {"id": 4, "name": "Controlar e manipular tudo ao meu redor.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Como você lida com problemas?",
+          "options": [
+            {"id": 1, "name": "Confio nos meus instintos e sigo em frente.", "alias": "A"},
+            {"id": 2, "name": "Uso minhas habilidades para superá-los rapidamente.", "alias": "B"},
+            {"id": 3, "name": "Penso em todas as possibilidades antes de agir.", "alias": "C"},
+            {"id": 4, "name": "Faço o que for necessário para vencer, sem hesitar.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 4,
+          "question": "O que mais importa para você?",
+          "options": [
+            {"id": 1, "name": "A amizade e as conexões que faço pelo caminho.", "alias": "A"},
+            {"id": 2, "name": "A diversão e o prazer da vitória.", "alias": "B"},
+            {"id": 3, "name": "O conhecimento e a capacidade de adaptação.", "alias": "C"},
+            {"id": 4, "name": "O poder absoluto sobre os outros.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Se tivesse que escolher um tipo de batalha, qual seria?",
+          "options": [
+            {"id": 1, "name": "Uma batalha justa, baseada em habilidades.", "alias": "A"},
+            {"id": 2, "name": "Uma luta eletrizante, cheia de adrenalina.", "alias": "B"},
+            {"id": 3, "name": "Um duelo de inteligência e estratégia.", "alias": "C"},
+            {"id": 4, "name": "Uma guerra onde eu controlo tudo nos bastidores.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 6,
+          "question": "O que você faria se encontrasse um inimigo muito mais forte?",
+          "options": [
+            {"id": 1, "name": "Enfrentaria de cabeça erguida, mesmo sabendo do risco.", "alias": "A"},
+            {"id": 2, "name": "Tentaria ficar mais forte e voltaria para vencer.", "alias": "B"},
+            {"id": 3, "name": "Usaria a inteligência para encontrar uma brecha.", "alias": "C"},
+            {"id": 4, "name": "Manipularia a situação para que ele me servisse.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Se pudesse escolher um poder do Nen, qual seria?",
+          "options": [
+            {"id": 1, "name": "Reforço: aumentar minha força ao máximo.", "alias": "A"},
+            {"id": 2, "name": "Transmutação: modificar minhas habilidades à vontade.", "alias": "B"},
+            {"id": 3, "name": "Especialização: um poder único e imprevisível.", "alias": "C"},
+            {"id": 4, "name": "Manipulação: controlar pessoas e objetos.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 8,
+          "question": "O que mais te irrita?",
+          "options": [
+            {"id": 1, "name": "Pessoas que desistem fácil.", "alias": "A"},
+            {"id": 2, "name": "A falta de emoção e desafio.", "alias": "B"},
+            {"id": 3, "name": "A falta de lógica e planejamento.", "alias": "C"},
+            {"id": 4, "name": "Pessoas que não sabem seu lugar.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 9,
+          "question": "Se pudesse formar uma equipe, qual seria o critério principal?",
+          "options": [
+            {"id": 1, "name": "Lealdade e amizade.", "alias": "A"},
+            {"id": 2, "name": "Habilidades extraordinárias.", "alias": "B"},
+            {"id": 3, "name": "Inteligência e estratégia.", "alias": "C"},
+            {"id": 4, "name": "Obediência absoluta.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 10,
+          "question": "O que faria se tivesse um grande poder?",
+          "options": [
+            {"id": 1, "name": "Exploraria o mundo e conheceria coisas novas.", "alias": "A"},
+            {"id": 2, "name": "Testaria meus limites ao máximo.", "alias": "B"},
+            {"id": 3, "name": "Criaria estratégias para alcançar algo maior.", "alias": "C"},
+            {"id": 4, "name": "Dominaria tudo ao meu redor.", "alias": "D"}
+          ]
+        }
+      ],
+      "results": {
+        "A": "Você seria Gon Freecss! Aventureiro e determinado, você nunca desiste dos seus sonhos e valoriza a amizade acima de tudo.",
+        "B": "Você seria Killua Zoldyck! Habilidoso e destemido, você busca desafios e emoções, sempre testando seus próprios limites.",
+        "C": "Você seria Kurapika! Inteligente e estratégico, você age com precisão e nunca esquece seus objetivos, sempre buscando justiça.",
+        "D": "Você seria Hisoka! Astuto e manipulador, você adora o poder e o desafio, usando sua inteligência para obter o que deseja."
+      }
+    },
+    {
+      "id": 9,
+      "title": "Qual personagem de Cowboy Bebop você seria?",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Como você lida com o passado?",
+          "options": [
+            {"id": 1, "name": "Aceito, mas ele sempre me persegue.", "alias": "A"},
+            {"id": 2, "name": "Não penso muito nisso, vivo o presente.", "alias": "B"},
+            {"id": 3, "name": "Uso o que aprendi para planejar o futuro.", "alias": "C"},
+            {"id": 4, "name": "Evito ao máximo lembrar dele.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 2,
+          "question": "O que te motiva a seguir em frente?",
+          "options": [
+            {"id": 1, "name": "Um desejo inacabado do passado.", "alias": "A"},
+            {"id": 2, "name": "A necessidade de sobrevivência.", "alias": "B"},
+            {"id": 3, "name": "A busca por liberdade.", "alias": "C"},
+            {"id": 4, "name": "A curiosidade pelo desconhecido.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Como você reage quando as coisas dão errado?",
+          "options": [
+            {"id": 1, "name": "Faço uma piada e sigo em frente.", "alias": "A"},
+            {"id": 2, "name": "Fico frustrado, mas tento resolver.", "alias": "B"},
+            {"id": 3, "name": "Mantenho a calma e repenso a situação.", "alias": "C"},
+            {"id": 4, "name": "Deixo rolar, o destino vai decidir.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Se você fosse um caçador de recompensas, qual seria seu estilo?",
+          "options": [
+            {"id": 1, "name": "Descontraído e confiante, sempre improvisando.", "alias": "A"},
+            {"id": 2, "name": "Meticuloso e calculista, sempre planejando.", "alias": "B"},
+            {"id": 3, "name": "Frio e eficiente, sem perder tempo.", "alias": "C"},
+            {"id": 4, "name": "Caótico e imprevisível, sempre surpreendendo.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 5,
+          "question": "O que você valoriza mais em uma equipe?",
+          "options": [
+            {"id": 1, "name": "A lealdade, mesmo nos momentos difíceis.", "alias": "A"},
+            {"id": 2, "name": "O talento e a eficiência de cada um.", "alias": "B"},
+            {"id": 3, "name": "A diversão e os bons momentos.", "alias": "C"},
+            {"id": 4, "name": "A liberdade de cada um ser quem quiser.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 6,
+          "question": "Se tivesse que escolher um meio de transporte, qual seria?",
+          "options": [
+            {"id": 1, "name": "Uma nave veloz para fugir dos problemas.", "alias": "A"},
+            {"id": 2, "name": "Uma moto ou carro clássico, pelo estilo.", "alias": "B"},
+            {"id": 3, "name": "Qualquer coisa que funcione, sem frescura.", "alias": "C"},
+            {"id": 4, "name": "Prefiro me teleportar e evitar complicações.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Como você vê o futuro?",
+          "options": [
+            {"id": 1, "name": "Algo incerto, mas que sigo em frente.", "alias": "A"},
+            {"id": 2, "name": "Uma oportunidade para se reinventar.", "alias": "B"},
+            {"id": 3, "name": "Uma repetição de ciclos do passado.", "alias": "C"},
+            {"id": 4, "name": "Uma jornada caótica sem destino certo.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 8,
+          "question": "Qual seria o seu maior inimigo?",
+          "options": [
+            {"id": 1, "name": "Minha própria mente e lembranças.", "alias": "A"},
+            {"id": 2, "name": "A falta de propósito na vida.", "alias": "B"},
+            {"id": 3, "name": "As pessoas que traíram minha confiança.", "alias": "C"},
+            {"id": 4, "name": "A sociedade e suas regras absurdas.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 9,
+          "question": "Se você pudesse escolher um tema musical para sua vida, qual seria?",
+          "options": [
+            {"id": 1, "name": "Um jazz melancólico e intenso.", "alias": "A"},
+            {"id": 2, "name": "Um rock energético e vibrante.", "alias": "B"},
+            {"id": 3, "name": "Algo clássico e sofisticado.", "alias": "C"},
+            {"id": 4, "name": "Uma música eletrônica cheia de caos.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Qual frase define sua filosofia de vida?",
+          "options": [
+            {"id": 1, "name": "O passado nunca desaparece completamente.", "alias": "A"},
+            {"id": 2, "name": "Só se vive uma vez, então aproveite.", "alias": "B"},
+            {"id": 3, "name": "Tudo é um jogo de xadrez, e eu sou o estrategista.", "alias": "C"},
+            {"id": 4, "name": "A vida é uma piada sem sentido.", "alias": "D"}
+          ]
+        }
+      ],
+      "results": {
+        "A": "Você seria Spike Spiegel! Um caçador de recompensas carismático e despreocupado, mas com um passado que sempre o assombra.",
+        "B": "Você seria Faye Valentine! Sagaz e independente, você faz o que precisa para sobreviver, sem se apegar demais ao passado.",
+        "C": "Você seria Jet Black! Um ex-policial que busca justiça e lealdade, sempre tentando manter a equipe unida.",
+        "D": "Você seria Ed! Excêntrico e genial, você vê o mundo de forma única e vive no seu próprio ritmo, sem se prender a regras."
+      }
+    },
+    {
+      "id": 10,
+      "title": "Qual personagem de Demon Slayer você seria?",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Qual é a sua principal motivação?",
+          "options": [
+            {"id": 1, "name": "Proteger aqueles que amo, custe o que custar.", "alias": "A"},
+            {"id": 2, "name": "Superar meus próprios medos e limitações.", "alias": "B"},
+            {"id": 3, "name": "Provar meu valor e me tornar mais forte.", "alias": "C"},
+            {"id": 4, "name": "Fazer o que quiser, sem seguir regras.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Como você lida com desafios?",
+          "options": [
+            {"id": 1, "name": "Com determinação e persistência.", "alias": "A"},
+            {"id": 2, "name": "Com medo no início, mas sem desistir.", "alias": "B"},
+            {"id": 3, "name": "Com pura força de vontade e raiva.", "alias": "C"},
+            {"id": 4, "name": "Com inteligência e improvisação.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 3,
+          "question": "O que é mais importante para você?",
+          "options": [
+            {"id": 1, "name": "Família e amigos.", "alias": "A"},
+            {"id": 2, "name": "Superar meus medos.", "alias": "B"},
+            {"id": 3, "name": "Provar que sou o melhor.", "alias": "C"},
+            {"id": 4, "name": "Me divertir e aproveitar a vida.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Se você fosse um caçador de demônios, qual seria sua estratégia?",
+          "options": [
+            {"id": 1, "name": "Usaria minha disciplina e técnicas aprimoradas.", "alias": "A"},
+            {"id": 2, "name": "Atacaria no momento certo, evitando riscos.", "alias": "B"},
+            {"id": 3, "name": "Lutaria com tudo, sem medo das consequências.", "alias": "C"},
+            {"id": 4, "name": "Criaria um plano ousado e inesperado.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Qual dessas fraquezas se parece mais com você?",
+          "options": [
+            {"id": 1, "name": "Sou muito emotivo e me apego demais.", "alias": "A"},
+            {"id": 2, "name": "Fico paralisado de medo às vezes.", "alias": "B"},
+            {"id": 3, "name": "Sou teimoso e explosivo.", "alias": "C"},
+            {"id": 4, "name": "Sou um pouco imprevisível e distraído.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 6,
+          "question": "Qual elemento combina mais com você?",
+          "options": [
+            {"id": 1, "name": "Água – fluído e adaptável.", "alias": "A"},
+            {"id": 2, "name": "Trovão – rápido e poderoso.", "alias": "B"},
+            {"id": 3, "name": "Fogo – intenso e determinado.", "alias": "C"},
+            {"id": 4, "name": "Vento – livre e imprevisível.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Se você encontrasse um inimigo muito mais forte que você, o que faria?",
+          "options": [
+            {"id": 1, "name": "Lutaria até o fim para proteger os outros.", "alias": "A"},
+            {"id": 2, "name": "Ficaria apavorado, mas tentaria reagir.", "alias": "B"},
+            {"id": 3, "name": "Gritaria e atacaria com tudo o que tenho.", "alias": "C"},
+            {"id": 4, "name": "Fugiria e pensaria em um plano melhor.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 8,
+          "question": "Como você descreveria sua personalidade?",
+          "options": [
+            {"id": 1, "name": "Gentil e determinado.", "alias": "A"},
+            {"id": 2, "name": "Ansioso, mas leal.", "alias": "B"},
+            {"id": 3, "name": "Explosivo e competitivo.", "alias": "C"},
+            {"id": 4, "name": "Divertido e excêntrico.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 9,
+          "question": "O que você acha mais difícil de lidar?",
+          "options": [
+            {"id": 1, "name": "Perder alguém querido.", "alias": "A"},
+            {"id": 2, "name": "O medo do fracasso.", "alias": "B"},
+            {"id": 3, "name": "A ideia de ser inferior a alguém.", "alias": "C"},
+            {"id": 4, "name": "As regras e restrições da vida.", "alias": "D"}
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Se você tivesse que escolher um lema de vida, qual seria?",
+          "options": [
+            {"id": 1, "name": "Nunca desistir, não importa o desafio.", "alias": "A"},
+            {"id": 2, "name": "O medo pode ser superado com coragem.", "alias": "B"},
+            {"id": 3, "name": "A força resolve tudo!", "alias": "C"},
+            {"id": 4, "name": "Não me importo com regras, faço do meu jeito.", "alias": "D"}
+          ]
+        }
+      ],
+      "results": {
+        "A": "Você seria Tanjiro Kamado! Você é determinado, gentil e faz de tudo para proteger as pessoas que ama.",
+        "B": "Você seria Zenitsu Agatsuma! Você pode ter medo no começo, mas quando precisa, mostra uma força impressionante.",
+        "C": "Você seria Inosuke Hashibira! Forte e impulsivo, você nunca recua diante de um desafio.",
+        "D": "Você seria Tengen Uzui! Estiloso e extravagante, você faz tudo de um jeito único e inusitado."
+      }
+    }
+  ]
+}
